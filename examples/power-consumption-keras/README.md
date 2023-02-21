@@ -1,8 +1,13 @@
 # Predictive Maintenance (TensorFlow/Keras version)
 This is an example of simple neural network regression model in federated settings. A normal high-end laptop or a workstation should be able to sustain a few clients. The data partitions are static based on four nodes. We here assume working experience with containers, Docker and docker-compose. 
 
+# Research Article:
+Towards Smart e-Infrastructures, A Community Driven Approach Based on Real Datasets
+https://ieeexplore.ieee.org/document/9289758
 
-## NOTE: This example is not open-source. However, Scaleout support staff can help you to get more details. Please contact us for further details. 
+### NOTE: The model in this example is a simpler version of the model used in the article.  
+
+## NOTE: The dataset required for this example is not open-source. However, Scaleout support staff can you help to get more details. Please contact us for further details. 
 
 ## Table of Contents
 - [Power Consumption Example (Keras version)](#power-consumption-example-keras-version)
